@@ -89,5 +89,3 @@ Selain itu, kita juga perlu menambahkan [deploy.yml](./.github/workflows/deploy.
 
 
 >⚠️ __NOTE:__ Pantau tab `action`, jika ada yang salah dan proses build memakan waktu yang lama, silahkan `cancel workflow`
-
-## test
